@@ -1,0 +1,5 @@
+
+2024-12-22T11:55:22.315Z: index.mjs: Hello from ESM executing CJS string code!
+2024-12-22T11:55:22.381Z: index.mjs: Hello from ESM executing ESM string code!
+2024-12-22T11:55:29.581Z: index.cjs: Hello from CJS executing CJS string code!
+2024-12-22T11:55:29.651Z: index.cjs: Hello from CJS executing ESM string code!
