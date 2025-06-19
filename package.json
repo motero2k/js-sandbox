@@ -10,11 +10,21 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@opentelemetry/api": "^1.9.0",
+    "@opentelemetry/auto-instrumentations-node": "^0.60.0",
+    "@opentelemetry/instrumentation": "^0.202.0",
+    "@opentelemetry/instrumentation-http": "^0.202.0",
+    "@opentelemetry/sdk-metrics": "^2.0.1",
+    "@opentelemetry/sdk-metrics-base": "^0.31.0",
+    "@opentelemetry/sdk-node": "^0.202.0",
+    "@opentelemetry/sdk-trace-base": "^2.0.1",
+    "@opentelemetry/sdk-trace-node": "^2.0.1",
     "axios": "^1.7.9",
     "cookie-parser": "^1.4.7",
-    "import-from-string": "^0.0.4",
-    "jsonwebtoken": "^9.0.2"
-  },
-  "devDependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "lokijs": "^1.5.12",
+    "minisearch": "^7.1.2",
+    "nedb": "^1.8.0"
   }
 }
